@@ -17,4 +17,9 @@ Process Optimization & Workflow Automation
 Development of End-to-End ETL Pipelines
 Statistical Analysis and predictive Modeling
 
+**CURRENT FOCUS**
+Creating scalable production workflows of ETL
+Developing executive level dashboards in line with KPI strategy
+Creating business-driven analytics case studies
+Enhancing data engineering and data architecture
 
