@@ -23,3 +23,6 @@ Developing executive level dashboards in line with KPI strategy
 Creating business-driven analytics case studies
 Enhancing data engineering and data architecture
 
+**FEATURED PROJECTS**
+Here is the portfolio of a few of my selected projects, which reflect experience in the area of analytics, data engineering, and business intelligence - focusing on business impact, scalability, and structured problem-solving.The projects will be extended continuously and optimized to represent new advanced capabilities and practice.
+
